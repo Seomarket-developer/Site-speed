@@ -1,0 +1,874 @@
+
+	<!DOCTYPE html>
+	<html lang="nl" class="desktop chrome csu">
+	<!-- 
+
+		Deze website is gebouwd door: 
+		Applepie communicatie
+
+		T: 0413-243422
+		F: 0413-243466
+		E: info@applepie.nl
+		I: www.applepie.nl
+
+	-->
+	<head>
+		<meta charset="utf-8" />
+		<title>Schoonmaakbedrijf CSU - Scherp op schoon</title>
+		<meta name="description" content="Schoonmaakbedrijf CSU - Scherp op schoon" />		<link rel="shortcut icon" href="https://www.csu.nl/favicon.ico" type="image/x-icon" />
+		<link rel="canonical" href="https://www.csu.nl/" />
+		<script type="text/javascript">
+var siteurl = "https://www.csu.nl/";
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<link href="//fonts.googleapis.com/css?family=Oswald:400,700,300" rel="stylesheet" type="text/css">
+<link href="https://www.csu.nl/css/bootstrap1.min.css"  rel="stylesheet" />
+<link href="https://www.csu.nl/css/custom-icons.css"  rel="stylesheet" />
+<link href="https://www.csu.nl/css/jquery-ui.css"  rel="stylesheet" />
+<link href="https://www.csu.nl/css/style.css?v=4"  rel="stylesheet" />
+<link href="https://www.csu.nl/css/owl.carousel2.css"  rel="stylesheet" />
+<link href="https://www.csu.nl/css/magnific-popup.css"  rel="stylesheet" />
+<link href="https://www.csu.nl/css/videoslide.css"  rel="stylesheet" />
+<link href="https://www.csu.nl/includes/common/consent/css/consent.css"  rel="stylesheet" />
+<link href="https://www.csu.nl/css/2019.css" rel="stylesheet" type="text/css"><link href="https://www.csu.nl/css/nav.css" rel="stylesheet" type="text/css"><script src="https://www.csu.nl/scripts/nav.js"></script>		<link href="//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" rel="stylesheet" type="text/css">
+		<script>
+			(function(w,d,s,l,i){
+				w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-W9B9V9S');
+		</script>
+		<script>
+		    (function(h,o,t,j,a,r){
+		        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+		        h._hjSettings={hjid:702488,hjsv:6};
+		        a=o.getElementsByTagName('head')[0];
+		        r=o.createElement('script');r.async=1;
+		        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+		        a.appendChild(r);
+		    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+		</script>
+		<script>
+			!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+			n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','//connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '927955013933794');
+			fbq('track', "PageView");
+		</script>
+			</head>
+	<body class="homepage">
+						<noscript>
+				<img height="1" alt="facebook" width="1" style="display:none" src="https://www.facebook.com/tr?id=927955013933794&ev=PageView&noscript=1" />
+			</noscript>
+					<header class="navbar-fixed-top">
+				<div id="mainHeader" role="banner">
+					<div class="container">
+						<nav class="navbar navbar-default" role="navigation">
+							<div class="navbar-header">
+								<a href="#mobileSideMenu" class="sideMenuToggle"><svg height="32px" style="enable-background:new 0 0 32 32;" version="1.1" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M4,10h24c1.104,0,2-0.896,2-2s-0.896-2-2-2H4C2.896,6,2,6.896,2,8S2.896,10,4,10z M28,14H4c-1.104,0-2,0.896-2,2  s0.896,2,2,2h24c1.104,0,2-0.896,2-2S29.104,14,28,14z M28,22H4c-1.104,0-2,0.896-2,2s0.896,2,2,2h24c1.104,0,2-0.896,2-2  S29.104,22,28,22z"/></svg> <span>Menu</span></a>
+																<a class="navbar-brand" href="https://www.csu.nl/"><img width="132" src="https://www.csu.nl/img/csu.svg" alt=""/></a>
+							</div>
+							<div class="top">
+								<form class="zoekveldje" action="https://www.csu.nl/zoeken/" method="post">
+									<input type="text" placeholder="Zoeken" name="search" id="search"/>
+									<input type="submit" class="btn" name="sbtn" value="Zoek"/>
+								</form>
+								<ul class="contactBtn">
+									<li>
+										<a href="https://www.csu.nl/contact/" class="btn">Contact</a>
+										<ul>
+																						<li><a href="https://www.csu.nl/offerte-aanvragen/">Offerte aanvragen</a></li>
+											<li><a href="https://www.csu.nl/nieuwsbrief/">Aanmelden nieuwsbrief</a></li>
+										</ul>
+									</li>
+								</ul>
+								<ul class="socialSites">
+									<li><a href="https://www.facebook.com/CSUcleaning" target="_blank">&nbsp;</a></li>
+									<li><a href="https://www.linkedin.com/company/csu" target="_blank">&nbsp;</a></li>
+									<li><a href="https://twitter.com/csucleaning" target="_blank">&nbsp;</a></li>
+									<li><a href="https://www.youtube.com/channel/UCSagrygbMkjrBpVW-ErB8kQ" target="_blank"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve"><rect fill="#E52D27" width="128" height="128"/><path fill="#FFFFFF" d="M99.8398,78.3359c0,5.6319-4.6084,10.2403-10.2402,10.2403H38.3994c-5.6318,0-10.2392-4.6084-10.2392-10.2403V49.6641c0-5.6319,4.6074-10.2403,10.2392-10.2403h51.2002c5.6318,0,10.2402,4.6084,10.2402,10.2403V78.3359z M56.5967,72.793l19.3681-10.0352L56.5967,52.6533V72.793z"/></svg></a></li>
+								</ul>
+							</div>
+							<div class="collapse navbar-collapse dropdowns" id="mainMenu">
+								<ul class="nav navbar-nav pull-right">
+									<li class="visible-xs">
+										<a href="https://www.csu.nl/contact/">Contact</a>
+										<ul class="subMenu">
+																						<li><a href="https://www.csu.nl/offerte-aanvragen/">Offerte aanvragen</a></li>
+											<li><a href="https://www.csu.nl/nieuwsbrief/">Aanmelden nieuwsbrief</a></li>
+										</ul>
+									</li>
+														<li class="71">
+						<a href="https://www.csu.nl/sectoren/" data-ac='2'>Sectoren</a>
+										<ul class="subMenu">
+									<li class="76">
+						<a href="https://www.csu.nl/sectoren/hotels/" data-ac='2'>Hotels</a>
+										<ul class="subMenu">
+									<li class="149">
+						<a href="https://www.csu.nl/sectoren/hotels/kwaliteit/" data-ac='2'>Kwaliteit</a>
+									
+					</li>
+										<li class="150">
+						<a href="https://www.csu.nl/sectoren/hotels/werkwijze-csu-hotel-services/" data-ac='2'>Werkwijze CSU Hotel Services</a>
+									
+					</li>
+										<li class="153">
+						<a href="https://www.csu.nl/sectoren/hotels/green-key/" data-ac='2'>Green Key</a>
+									
+					</li>
+										<li class="194">
+						<a href="https://www.csu.nl/sectoren/hotels/referenties-csu-hotel-services-/" data-ac='2'>Referenties CSU Hotel Services </a>
+									
+					</li>
+										<li class="151">
+						<a href="https://www.csu.nl/sectoren/hotels/continuiteit/" data-ac='2'>Continuïteit</a>
+									
+					</li>
+									</ul>
+							
+					</li>
+										<li class="81">
+						<a href="https://www.csu.nl/sectoren/zorg/" data-ac='2'>Zorg</a>
+										<ul class="subMenu">
+									<li class="100">
+						<a href="https://www.csu.nl/sectoren/zorg/ziekenhuizen/" data-ac='2'>Ziekenhuizen</a>
+									
+					</li>
+										<li class="101">
+						<a href="https://www.csu.nl/sectoren/zorg/verpleeg-en-verzorgingshuizen/" data-ac='2'>Verpleeg- en verzorgingshuizen</a>
+									
+					</li>
+										<li class="102">
+						<a href="https://www.csu.nl/sectoren/zorg/kinderdagverblijven/" data-ac='2'>Kinderdagverblijven</a>
+									
+					</li>
+									</ul>
+							
+					</li>
+										<li class="77">
+						<a href="https://www.csu.nl/sectoren/bungalowparken/" data-ac='2'>Bungalowparken</a>
+										<ul class="subMenu">
+									<li class="158">
+						<a href="https://www.csu.nl/sectoren/bungalowparken/tevreden-gasten/" data-ac='2'>Tevreden gasten</a>
+									
+					</li>
+										<li class="159">
+						<a href="https://www.csu.nl/sectoren/bungalowparken/vakkundig-personeel/" data-ac='2'>Vakkundig personeel</a>
+									
+					</li>
+										<li class="160">
+						<a href="https://www.csu.nl/sectoren/bungalowparken/innovatieve-kwaliteit/" data-ac='2'>Innovatieve kwaliteit</a>
+									
+					</li>
+									</ul>
+							
+					</li>
+										<li class="79">
+						<a href="https://www.csu.nl/sectoren/onderwijs/" data-ac='2'>Onderwijs</a>
+									
+					</li>
+										<li class="74">
+						<a href="https://www.csu.nl/sectoren/voedingsmiddelen/" data-ac='2'>Voedingsmiddelen</a>
+										<ul class="subMenu">
+									<li class="161">
+						<a href="https://www.csu.nl/sectoren/voedingsmiddelen/kwaliteit-regelgeving-en-milieu/" data-ac='2'>Kwaliteit, regelgeving en milieu</a>
+									
+					</li>
+										<li class="163">
+						<a href="https://www.csu.nl/sectoren/voedingsmiddelen/kennis-en-advies/" data-ac='2'>Kennis en advies</a>
+									
+					</li>
+										<li class="164">
+						<a href="https://www.csu.nl/sectoren/voedingsmiddelen/continuiteit/" data-ac='2'>Continuïteit</a>
+									
+					</li>
+									</ul>
+							
+					</li>
+										<li class="73">
+						<a href="https://www.csu.nl/sectoren/kantoren/" data-ac='2'>Kantoren</a>
+										<ul class="subMenu">
+									<li class="91">
+						<a href="https://www.csu.nl/sectoren/kantoren/overheid/" data-ac='2'>Overheid</a>
+									
+					</li>
+										<li class="92">
+						<a href="https://www.csu.nl/sectoren/kantoren/zakelijke-dienstverlening/" data-ac='2'>Zakelijke dienstverlening</a>
+									
+					</li>
+									</ul>
+							
+					</li>
+										<li class="78">
+						<a href="https://www.csu.nl/sectoren/recreatie/" data-ac='2'>Recreatie</a>
+										<ul class="subMenu">
+									<li class="96">
+						<a href="https://www.csu.nl/sectoren/recreatie/pretparken/" data-ac='2'>Pretparken</a>
+									
+					</li>
+										<li class="97">
+						<a href="https://www.csu.nl/sectoren/recreatie/evenementen/" data-ac='2'>Evenementen</a>
+									
+					</li>
+										<li class="98">
+						<a href="https://www.csu.nl/sectoren/recreatie/stadions/" data-ac='2'>Stadions</a>
+									
+					</li>
+										<li class="99">
+						<a href="https://www.csu.nl/sectoren/recreatie/theaters-en-bioscopen/" data-ac='2'>Theaters en bioscopen</a>
+									
+					</li>
+									</ul>
+							
+					</li>
+										<li class="106">
+						<a href="https://www.csu.nl/sectoren/mkb/" data-ac='2'>MKB</a>
+									
+					</li>
+										<li class="75">
+						<a href="https://www.csu.nl/sectoren/industrie/" data-ac='2'>Industrie</a>
+										<ul class="subMenu">
+									<li class="94">
+						<a href="https://www.csu.nl/sectoren/industrie/chemische-industrie/" data-ac='2'>Chemische industrie</a>
+									
+					</li>
+										<li class="95">
+						<a href="https://www.csu.nl/sectoren/industrie/farmaceutische-industrie/" data-ac='2'>Farmaceutische industrie</a>
+									
+					</li>
+									</ul>
+							
+					</li>
+										<li class="80">
+						<a href="https://www.csu.nl/sectoren/retail/" data-ac='2'>Retail</a>
+									
+					</li>
+										<li class="82">
+						<a href="https://www.csu.nl/sectoren/vervoer/" data-ac='2'>Vervoer</a>
+										<ul class="subMenu">
+									<li class="103">
+						<a href="https://www.csu.nl/sectoren/vervoer/logistiek-en-transport/" data-ac='2'>Logistiek en transport</a>
+									
+					</li>
+										<li class="104">
+						<a href="https://www.csu.nl/sectoren/vervoer/openbaar-vervoer/" data-ac='2'>Openbaar vervoer</a>
+									
+					</li>
+										<li class="105">
+						<a href="https://www.csu.nl/sectoren/vervoer/luchthavens/" data-ac='2'>Luchthavens</a>
+									
+					</li>
+									</ul>
+							
+					</li>
+									</ul>
+							
+					</li>
+										<li class="306">
+						<a href="https://www.csu.nl/dienstverlening/" data-ac='2'>Dienstverlening</a>
+										<ul class="subMenu">
+									<li class="307">
+						<a href="https://www.csu.nl/dienstverlening/reguliere-schoonmaakdiensten/" data-ac='2'>Reguliere schoonmaakdiensten</a>
+									
+					</li>
+										<li class="308">
+						<a href="https://www.csu.nl/dienstverlening/periodieke-schoonmaakdiensten/" data-ac='2'>Periodieke schoonmaakdiensten</a>
+									
+					</li>
+										<li class="309">
+						<a href="https://www.csu.nl/dienstverlening/aanvullende-diensten/" data-ac='2'>Aanvullende diensten</a>
+									
+					</li>
+										<li class="310">
+						<a href="https://www.csu.nl/dienstverlening/-reiniging-cleanrooms/" data-ac='2'> Reiniging cleanrooms</a>
+									
+					</li>
+										<li class="312">
+						<a href="https://www.csu.nl/dienstverlening/contractvormen/" data-ac='2'>Contractvormen</a>
+									
+					</li>
+									</ul>
+							
+					</li>
+										<li class="233">
+						<a href="https://www.csu.nl/innovatie/" data-ac='2'>Innovatie</a>
+										<ul class="subMenu">
+									<li class="234">
+						<a href="https://www.csu.nl/innovatie/besense/" data-ac='2'>BeSense</a>
+									
+					</li>
+										<li class="235">
+						<a href="https://www.csu.nl/innovatie/intellibot/" data-ac='2'>Intellibot</a>
+									
+					</li>
+										<li class="236">
+						<a href="https://www.csu.nl/innovatie/2connect/" data-ac='2'>2Connect</a>
+									
+					</li>
+										<li class="243">
+						<a href="https://www.csu.nl/innovatie/virtual-reality/" data-ac='2'>Virtual Reality</a>
+									
+					</li>
+										<li class="244">
+						<a href="https://www.csu.nl/innovatie/fm-coalitie/" data-ac='2'>FM Coalitie</a>
+									
+					</li>
+										<li class="281">
+						<a href="https://www.csu.nl/innovatie/geurbeleving/" data-ac='2'>Geurbeleving</a>
+									
+					</li>
+										<li class="258">
+						<a href="https://www.csu.nl/innovatie/darin/" data-ac='2'>Darin</a>
+									
+					</li>
+					<li><a target="_blank" href="https://www.csu.nl/innovatieaward/">Innovatie Award</a></li><li><a target="_blank" href="https://www.csu.nl/benchmark/">Nationale benchmark</a></li>				</ul>
+							
+					</li>
+										<li class="48">
+						<a href="https://www.csu.nl/hospitality/" data-ac='2'>Hospitality</a>
+										<ul class="subMenu">
+				<li><a target="_blank" href="http://pageflippublisher.nl/2019/csu/hospitality/inspiratie-magazine/">Inspiratie magazine</a></li>					<li class="283">
+						<a href="https://www.csu.nl/hospitality/hospitality-congres/" data-ac='2'>Hospitality Congres</a>
+									
+					</li>
+									</ul>
+							
+					</li>
+										<li class="9">
+						<a href="https://www.csu.nl/over-csu/" data-ac='2'>Over CSU</a>
+										<ul class="subMenu">
+									<li class="119">
+						<a href="https://www.csu.nl/over-csu/geschiedenis/" data-ac='2'>Geschiedenis</a>
+									
+					</li>
+										<li class="118">
+						<a href="https://www.csu.nl/over-csu/mensenbedrijf/" data-ac='2'>Mensenbedrijf</a>
+									
+					</li>
+										<li class="56">
+						<a href="https://www.csu.nl/over-csu/missie-en-visie/" data-ac='2'>Missie en visie</a>
+									
+					</li>
+										<li class="57">
+						<a href="https://www.csu.nl/over-csu/corporate-governance/" data-ac='2'>Corporate governance</a>
+									
+					</li>
+										<li class="47">
+						<a href="https://www.csu.nl/over-csu/excellente-operatie/" data-ac='2'>Excellente operatie</a>
+									
+					</li>
+										<li class="117">
+						<a href="https://www.csu.nl/over-csu/directie/" data-ac='2'>Directie</a>
+									
+					</li>
+										<li class="121">
+						<a href="https://www.csu.nl/over-csu/structuur/" data-ac='2'>Structuur</a>
+									
+					</li>
+										<li class="3">
+						<a href="https://www.csu.nl/over-csu/duurzaam/" data-ac='2'>Duurzaam</a>
+										<ul class="subMenu">
+									<li class="53">
+						<a href="https://www.csu.nl/over-csu/duurzaam/mens/" data-ac='2'>Mens</a>
+									
+					</li>
+										<li class="54">
+						<a href="https://www.csu.nl/over-csu/duurzaam/milieu/" data-ac='2'>Milieu</a>
+									
+					</li>
+										<li class="55">
+						<a href="https://www.csu.nl/over-csu/duurzaam/omgeving/" data-ac='2'>Omgeving</a>
+									
+					</li>
+									</ul>
+							
+					</li>
+										<li class="237">
+						<a href="https://www.csu.nl/over-csu/fris-in-je-werk/" data-ac='2'>Fris in je werk</a>
+									
+					</li>
+										<li class="148">
+						<a target="_blank" href="https://www.csu.nl/over-csu/jaarverslag-2018/" data-ac='2'>Jaarverslag 2018</a>
+									
+					</li>
+										<li class="157">
+						<a href="https://www.csu.nl/over-csu/relatiemagazine/" data-ac='2'>Relatiemagazine</a>
+									
+					</li>
+									</ul>
+							
+					</li>
+														<li>
+										<a  href="https://www.csu.nl/nieuws/">Nieuws</a>
+										<ul class="subMenu">
+											<li><a href="https://www.csu.nl/blog/">Blog</a></li>
+											<li><a href="https://www.csu.nl/nieuws/pers/">Pers</a></li>
+											<li><a href="https://www.csu.nl/artikelen/">Artikelen</a></li>
+																					</ul>
+									</li>
+									<li class="werkenbijMenu">
+										<a href="https://www.werkenbijcsu.nl/" target="_blank" onclick="ga('send', 'event', 'uitgaande link', 'klik', 'werkenbij');">Werken bij</a>
+										<ul class="subMenu">
+											<li><a href="https://www.werkenbijcsu.nl/" target="_blank" onclick="ga('send', 'event', 'uitgaande link', 'klik', 'werkenbij');" >Schoonmaakvacatures</a></li>
+											<li><a href="https://www.werkenbijcsu.nl/" target="_blank" onclick="ga('send', 'event', 'uitgaande link', 'klik', 'werkenbij'); ">Staffuncties</a></li>
+											<li><a href="https://www.werkenbijcsu.nl/vakantiewerk/" target="_blank" onclick="ga('send', 'event', 'uitgaande link', 'klik', 'werkenbij-vakantiewerk'); ">Vakantiewerk</a></li>
+										</ul>
+									</li>
+								</ul>
+															</div>
+						</nav>
+					</div>
+				</div>
+			</header>
+				<div class="slider">
+					<div class="main-slider">
+									<div class="item image">
+						<figure style="background:url('https://www.csu.nl/upload/xlarge/csu-0006-achtergrond-bm-2020-fo-1920x600.jpeg?v=3') repeat-x 50% 0; background-size:cover;">
+							<div class="container">
+								<div class="slide-image slide-media" style="background-image:url('https://www.csu.nl/upload/xlarge/benchmark-2020-voorgrond110x500-optie.png');">
+									<a href="https://www.csu.nl/innovatie/benchmark/">
+										<picture>
+											<source media="(max-width: 576px)" srcset="https://www.csu.nl/upload/large/csu-0006-logo-bm-2020-fo-700x700_001.jpg">											<img data-lazy="https://www.csu.nl/upload/xlarge/benchmark-2020-voorgrond110x500-optie.png" class="image-entity" />
+										</picture>
+									</a>
+								</div>
+							</div>
+						</figure>
+					</div>
+										<div class="item image">
+						<figure style="background:url('https://www.csu.nl/upload/xlarge/csu-header-achtergrond.jpg?v=3') repeat-x 50% 0; background-size:cover;">
+							<div class="container">
+								<div class="slide-image slide-media" style="background-image:url('https://www.csu.nl/upload/xlarge/mt500.png');">
+									<a href="https://www.csu.nl/nieuws/mt500-csu-nummer-1-in-facilitaire-dienstverlening/">
+										<picture>
+											<source media="(max-width: 576px)" srcset="https://www.csu.nl/upload/large/19204258-mobiele-sliders-homepage-700x700px-4x4.jpg">											<img data-lazy="https://www.csu.nl/upload/xlarge/mt500.png" class="image-entity" />
+										</picture>
+									</a>
+								</div>
+							</div>
+						</figure>
+					</div>
+										<div class="item image">
+						<figure style="background:url('https://www.csu.nl/upload/xlarge/csu-header-achtergrond.jpg?v=3') repeat-x 50% 0; background-size:cover;">
+							<div class="container">
+								<div class="slide-image slide-media" style="background-image:url('https://www.csu.nl/upload/xlarge/19202686-home-slider-klantverhaal-1100x500px-transp-hr.png');">
+									<a href="https://www.csu.nl/klantverhalen/">
+										<picture>
+											<source media="(max-width: 576px)" srcset="https://www.csu.nl/upload/large/19204258-mobiele-sliders-homepage-700x700px-4x3.jpg">											<img data-lazy="https://www.csu.nl/upload/xlarge/19202686-home-slider-klantverhaal-1100x500px-transp-hr.png" class="image-entity" />
+										</picture>
+									</a>
+								</div>
+							</div>
+						</figure>
+					</div>
+								</div>
+					<div class="groenebalk"><img src="https://www.csu.nl/img/layout/balk_groen.png" alt=""/></div>
+	</div>
+					<ul class="mobIndexMenu">
+					<li class="knopjes">
+						<a class="tel" href="tel:0413285111" ></a>
+						<a class="at" href="mailto:info@csu.nl" ></a>
+											</li>
+					<li><a href="https://www.csu.nl/contact/">Contact <span>&gt;&gt;</span></a></li>
+					<li><a href="https://www.csu.nl/sectoren/">Sectoren <span>&gt;&gt;</span></a></li>
+					<li><a href="https://www.csu.nl/dienstverlening/">Dienstverlening <span>&gt;&gt;</span></a></li>
+					<li><a href="https://www.werkenbijcsu.nl" target="_blank">Werken bij CSU <span>&gt;&gt;</span></a></li>
+					<li><a href="https://www.csu.nl/nieuws/">Nieuws <span>&gt;&gt;</span></a></li>
+				</ul>
+							<div class="clear"></div>
+			<div id="content">
+				<div class="container" >
+					<div class="row">
+								<div class="col-lg-6 col-md-12 col-sm-12 mt40 mb15 hidden-xs">
+				<div id="Stage" class="scherpanim"></div>
+			</div>
+			<div class="col-lg-6 col-md-12 col-sm-12 mt40 mb15">
+				<div class="row introtext">
+					<div class="cmsBlok1 clearfix">
+<div class="col-md-12 col-xs-12 pb15"><p>U zoekt een bedrijf dat scherp is op zijn dienstverlening. Dat net als u scherp is op het realiseren van uw doelstellingen. Dat alert, vooruitstrevend en klantgericht werkt aan goed schoon op een betere manier. Dat scherp luistert naar uw behoefte &eacute;n doorvraagt tot duidelijk is wat nodig is. Dat u ontzorgt met professioneel, betrokken maatwerk tegen scherpe prijzen. Steeds meer organisaties kiezen voor CSU&rsquo;s&nbsp;<a href="https://www.csu.nl/csu/excellente-operatie/" target="_blank">excellente operatie</a> en <a href="https://www.csu.nl/hospitality/" target="_blank">hospitality</a>. Ook onze visie op&nbsp;<a href="https://www.csu.nl/innovatie/" target="_blank">innovatie</a> is hierbij van doorslaggevend belang.</p></div>
+</div>
+				</div>
+				<a href="https://www.csu.nl/csu/excellente-operatie/" class="btn btn-lg">Ontdek hier waarom</a>
+			</div> 
+		</div>
+		<div class="row mt40">
+
+			<section class="indexBlokken"> 
+				<div class="homepageBlokjes">
+					<div class="cmsBlok20">
+<div class="col-sm-6 col-md-3">
+	<figure>
+		<a href="https://www.databadge.net/vfg2020/reg/?link=925bcd57f17f115f05e0&lan=NL" target="_blank"><img class="img-responsive" src="https://www.csu.nl/upload/medium/vakbeurs-facilitair-v2-website_001.png" alt=""></a>
+	</figure>
+	<div class="afgerond">
+		<a href="https://www.databadge.net/vfg2020/reg/?link=925bcd57f17f115f05e0&lan=NL" target="_blank"><h4><p>Bezoek ons op Vakbeurs Facilitair</p> <span class="arrowRight"></span></h4></a>
+	</div>
+</div>
+</div>
+<div class="cmsBlok20">
+<div class="col-sm-6 col-md-3">
+	<figure>
+		<a href="https://www.csu.nl/innovatie/benchmark/" target="_blank"><img class="img-responsive" src="https://www.csu.nl/upload/medium/nationale-facilitaire-innovatie-benchmark-v2-website.png" alt=""></a>
+	</figure>
+	<div class="afgerond">
+		<a href="https://www.csu.nl/innovatie/benchmark/" target="_blank"><h4><p>doe mee</p> <span class="arrowRight"></span></h4></a>
+	</div>
+</div>
+</div>
+<div class="cmsBlok20">
+<div class="col-sm-6 col-md-3">
+	<figure>
+		<a href="https://www.csu.nl/innovatieaward-editie-2019/" target="_blank"><img class="img-responsive" src="https://www.csu.nl/upload/medium/csu-blokje-website.png" alt=""></a>
+	</figure>
+	<div class="afgerond">
+		<a href="https://www.csu.nl/innovatieaward-editie-2019/" target="_blank"><h4><p>Winnaar bekend</p> <span class="arrowRight"></span></h4></a>
+	</div>
+</div>
+</div>
+<div class="cmsBlok20">
+<div class="col-sm-6 col-md-3">
+	<figure>
+		<a href="https://www.csu.nl/offerte-aanvragen/" target="_blank"><img class="img-responsive" src="https://www.csu.nl/upload/medium/offerte-aanvragen.png" alt=""></a>
+	</figure>
+	<div class="afgerond">
+		<a href="https://www.csu.nl/offerte-aanvragen/" target="_blank"><h4><p>offerte <br />aanvragen</p> <span class="arrowRight"></span></h4></a>
+	</div>
+</div>
+</div>
+				</div>
+			</section>
+		</div>
+	</div>
+	<section class="sectorBlokken">
+		<div class="container">
+			<div class="row"> 				<h1 class="text-center">Scherp in elk werkveld</h1>
+				<div class="owl-carousel projectSlider" data-applepie_autoplay="6000" data-applepie_singleitem="false" data-applepie_items="4" data-applepie_navigation="true" data-applepie_pagination="false" data-applepie_itemsscaleup="false">
+											<div class="item">
+							<h2>
+								<a href="https://www.csu.nl/sectoren/hotels/">
+									Hotels								</a>
+							</h2>
+															<figure>
+									<a href="https://www.csu.nl/sectoren/hotels/">
+										<img src="https://www.csu.nl/upload/medium/hotels.png" alt="" />
+									</a>
+								</figure>
+															<p>CSU Hotel Services is al ruim 50 jaar dé specialist in het ontzorgen van housekeeping. Wij staan voor optimale kwaliteit- en servicebeleving en maken het verschil met mensen die excelleren in gastvrijheid.</p>
+							<a class="afgerond" href="https://www.csu.nl/sectoren/hotels/">Meer informatie</a>
+						</div>
+												<div class="item">
+							<h2>
+								<a href="https://www.csu.nl/sectoren/zorg/">
+									Zorg								</a>
+							</h2>
+															<figure>
+									<a href="https://www.csu.nl/sectoren/zorg/">
+										<img src="https://www.csu.nl/upload/medium/zorg.png" alt="" />
+									</a>
+								</figure>
+															<p>CSU Zorg Services is uw specialist voor de dagelijkse en periodieke schoonmaak in de zorg; van wachtkamer tot operatietafel en van huiskamer tot slaapkamer.</p>
+							<a class="afgerond" href="https://www.csu.nl/sectoren/zorg/">Meer informatie</a>
+						</div>
+												<div class="item">
+							<h2>
+								<a href="https://www.csu.nl/sectoren/bungalowparken/">
+									Bungalowparken								</a>
+							</h2>
+															<figure>
+									<a href="https://www.csu.nl/sectoren/bungalowparken/">
+										<img src="https://www.csu.nl/upload/medium/bungalow.png" alt="" />
+									</a>
+								</figure>
+															<p>Uw gasten willen een leuke, ontspannen tijd op uw park. Even in een andere wereld, een vakantiegevoel. Ze zijn kritisch op de dienstverlening en faciliteiten en verwachten schone, frisse en goed onderhouden bungalows.</p>
+							<a class="afgerond" href="https://www.csu.nl/sectoren/bungalowparken/">Meer informatie</a>
+						</div>
+												<div class="item">
+							<h2>
+								<a href="https://www.csu.nl/sectoren/onderwijs/">
+									Onderwijs								</a>
+							</h2>
+															<figure>
+									<a href="https://www.csu.nl/sectoren/onderwijs/">
+										<img src="https://www.csu.nl/upload/medium/onderwijs_001.png" alt="" />
+									</a>
+								</figure>
+															<p>Leerlingen en ouders stellen de totale schoolbeleving centraal bij de schoolkeuze. Daarom wilt u een betaalbare, veilige, schone en gezellige leeromgeving. Met CSU heeft u die zekerheid. </p>
+							<a class="afgerond" href="https://www.csu.nl/sectoren/onderwijs/">Meer informatie</a>
+						</div>
+												<div class="item">
+							<h2>
+								<a href="https://www.csu.nl/sectoren/voedingsmiddelen/">
+									Voedingsmiddelen								</a>
+							</h2>
+															<figure>
+									<a href="https://www.csu.nl/sectoren/voedingsmiddelen/">
+										<img src="https://www.csu.nl/upload/medium/voedingsmiddelen.png" alt="" />
+									</a>
+								</figure>
+															<p>Schoonmaak in de voedingsmiddelenindustrie raakt uw primaire proces. Kwaliteit en continuïteit staan voorop. CSU is een ervaren partner voor de dagelijkse en periodieke reiniging in de voedingsmiddelenindustrie.</p>
+							<a class="afgerond" href="https://www.csu.nl/sectoren/voedingsmiddelen/">Meer informatie</a>
+						</div>
+												<div class="item">
+							<h2>
+								<a href="https://www.csu.nl/sectoren/kantoren/">
+									Kantoren								</a>
+							</h2>
+															<figure>
+									<a href="https://www.csu.nl/sectoren/kantoren/">
+										<img src="https://www.csu.nl/upload/medium/kantoren_001.png" alt="" />
+									</a>
+								</figure>
+															<p>Een schone werkomgeving verhoogt de tevredenheid en productiviteit van uw medewerkers. Ook draagt het bij aan de uitstraling richting klanten en bezoekers.</p>
+							<a class="afgerond" href="https://www.csu.nl/sectoren/kantoren/">Meer informatie</a>
+						</div>
+												<div class="item">
+							<h2>
+								<a href="https://www.csu.nl/sectoren/recreatie/">
+									Recreatie								</a>
+							</h2>
+															<figure>
+									<a href="https://www.csu.nl/sectoren/recreatie/">
+										<img src="https://www.csu.nl/upload/medium/recreatie.png" alt="" />
+									</a>
+								</figure>
+															<p>Recreatie, cultuur en sport draaien om plezier. Uw gasten willen vertier en ontspanning. Een schone, frisse en goed onderhouden omgeving hoort daarbij. Recreatiegebieden hebben daarom een goede facilitaire dienstverlening nodig.</p>
+							<a class="afgerond" href="https://www.csu.nl/sectoren/recreatie/">Meer informatie</a>
+						</div>
+												<div class="item">
+							<h2>
+								<a href="https://www.csu.nl/sectoren/mkb/">
+									MKB								</a>
+							</h2>
+															<figure>
+									<a href="https://www.csu.nl/sectoren/mkb/">
+										<img src="https://www.csu.nl/upload/medium/mkb.png" alt="" />
+									</a>
+								</figure>
+															<p>Als ondernemer wilt u vooral ondernemen. Iedere dag heeft u een volle agenda om uw winkel, kantoor of bedrijf te laten excelleren. CSU helpt u als zelfstandig MKB-ondernemer met betaalbare schoonmaakdiensten.</p>
+							<a class="afgerond" href="https://www.csu.nl/sectoren/mkb/">Meer informatie</a>
+						</div>
+												<div class="item">
+							<h2>
+								<a href="https://www.csu.nl/sectoren/industrie/">
+									Industrie								</a>
+							</h2>
+															<figure>
+									<a href="https://www.csu.nl/sectoren/industrie/">
+										<img src="https://www.csu.nl/upload/medium/industrie.png" alt="" />
+									</a>
+								</figure>
+															<p>Industriële omgevingen vragen om een deskundige aanpak. Naast kantoren heeft CSU ervaring met de veilige borging van productieprocessen, zowel in regulier schoonmaakonderhoud als specialistische reiniging.</p>
+							<a class="afgerond" href="https://www.csu.nl/sectoren/industrie/">Meer informatie</a>
+						</div>
+												<div class="item">
+							<h2>
+								<a href="https://www.csu.nl/sectoren/retail/">
+									Retail								</a>
+							</h2>
+															<figure>
+									<a href="https://www.csu.nl/sectoren/retail/">
+										<img src="https://www.csu.nl/upload/medium/sector-retail.jpg" alt="" />
+									</a>
+								</figure>
+															<p>Winkels, warenhuizen of (overdekte) winkelcentra; CSU biedt voor elk winkeloppervlak de scherpste en schoonste oplossing. We ontzorgen door jarenlange ervaring en proactieve en gastvrije medewerkers.</p>
+							<a class="afgerond" href="https://www.csu.nl/sectoren/retail/">Meer informatie</a>
+						</div>
+												<div class="item">
+							<h2>
+								<a href="https://www.csu.nl/sectoren/vervoer/">
+									Vervoer								</a>
+							</h2>
+															<figure>
+									<a href="https://www.csu.nl/sectoren/vervoer/">
+										<img src="https://www.csu.nl/upload/medium/csu-2019-2770.jpg" alt="" />
+									</a>
+								</figure>
+															<p>Vervoer is meer dan reizen van A naar B. De vele reizigers willen een schone omgeving. Daar zorgen wij voor. Ook voor gevelreiniging en graffiti verwijderen bent u bij CSU aan het juiste adres.</p>
+							<a class="afgerond" href="https://www.csu.nl/sectoren/vervoer/">Meer informatie</a>
+						</div>
+										</div>
+			</div>
+		</div>
+	</section>
+	<div class="container">
+		<div class="row">
+			<h1 class="text-center mb10">Nieuws</h1>
+							<section class="newsBloks"> 						<div class="col-md-3 col-sm-6"> 
+							<div class="groenkop">
+								<span>12 februari 2020</span>  
+								<h2>
+									<a href="https://www.csu.nl/nieuws/avans-omarmt-de-code-verantwoordelijk-marktgedrag/">
+										Avans omarmt de Code
+Verantwoordelijk Marktgedrag									</a>
+								</h2>
+							</div>
+															<a href="https://www.csu.nl/nieuws/avans-omarmt-de-code-verantwoordelijk-marktgedrag/">
+									<img src="https://www.csu.nl/upload/medium/avans-omarmt-de-code-verantwoordelijk-marktgedrag.jpg" alt=""/>
+								</a> 						</div>
+												<div class="col-md-3 col-sm-6"> 
+							<div class="groenkop">
+								<span> 7 februari 2020</span>  
+								<h2>
+									<a href="https://www.csu.nl/nieuws/csu-zeven-keer-op-rij-top-employer-bewijs-dat-hr-beleid-verschil-maakt-in-krappe-arbeidsmarkt/">
+										CSU zeven keer op rij ‘Top
+Employer’: “Bewijs dat
+HR-beleid verschil maakt in
+krappe arbeidsmarkt”									</a>
+								</h2>
+							</div>
+															<a href="https://www.csu.nl/nieuws/csu-zeven-keer-op-rij-top-employer-bewijs-dat-hr-beleid-verschil-maakt-in-krappe-arbeidsmarkt/">
+									<img src="https://www.csu.nl/upload/medium/top-employer-2020-def.png" alt=""/>
+								</a> 						</div>
+													<div class="visible-sm clearfix pb15"></div> 						<div class="col-md-3 col-sm-6"> 
+							<div class="groenkop">
+								<span> 4 februari 2020</span>  
+								<h2>
+									<a href="https://www.csu.nl/nieuws/in-de-schijnwerper-team-prisma-/">
+										In de schijnwerper: Team
+Prisma 									</a>
+								</h2>
+							</div>
+															<a href="https://www.csu.nl/nieuws/in-de-schijnwerper-team-prisma-/">
+									<img src="https://www.csu.nl/upload/medium/team-in-de-schijnwerper-prisma.png" alt=""/>
+								</a> 						</div>
+															
+					<div class="col-md-3 col-sm-6"> 
+						<div class="groenkop">
+							<span>Meer informatie over</span>
+							<h2><a href="https://www.csu.nl/i/">Schoonmaakdiensten</a></h2>
+						</div>
+						<a href="https://www.csu.nl/i/"><img src="https://www.csu.nl/img/content/vrouw_csu.jpg" alt="" /></a>
+					</div>
+
+				</section> 								</div>
+			</div> 
+		</div>
+				<footer id="footerWrapper" class="footer2">
+			<div class="mobile">
+				<p>Copyright<br/>&copy; CSU 2020</p>
+				<a href="https://www.csu.nl/privacy-policy/">Privacy <br/>Policy</a>
+				<a href="https://www.csu.nl/disclaimer/">Disclaimer</a>
+			</div>
+			<div class="container footerblokken">
+				<div class="row">
+											<div class="col-md-3 col-sm-6 footersitemap">
+							<div class="row">
+								<div class="cmsBlok1 clearfix">
+<div class="col-md-12 col-xs-12 pb15"><h5>Overzicht</h5>
+<p><a href="https://www.csu.nl/">Home</a><br /><a href="https://www.csu.nl/sectoren/">Sectoren</a><br /><a href="https://www.csu.nl/dienstverlening/">Dienstverlening</a><br /><a href="https://www.csu.nl/innovatie/">Innovatie<br /></a><a href="https://www.csu.nl/hospitality/">Hospitality</a><br /><a href="https://www.csu.nl/over-csu/">Over CSU</a><br /><a href="https://www.csu.nl/nieuws/">Nieuws en Pers<br /></a><a href="https://werkenbijcsu.nl/">Werkenbij</a></p>
+<p><a href="https://www.csu.nl/disclaimer/">Disclaimer</a><br /><a href="https://www.csu.nl/privacy-policy/">Privacy policy<br /></a><a href="https://www.csu.nl/cookieverklaring/">Cookieverklaring</a><br /><a href="https://www.csu.nl/sitemap/">Sitemap<br /></a><a href="https://www.csu.nl/i/">Informatie</a><br />Copyright &copy; CSU 2019</p></div>
+</div>
+							</div>
+						</div>
+						<div class="col-md-3 col-sm-6">
+							<div class="row">
+								<div class="cmsBlok1 clearfix">
+<div class="col-md-12 col-xs-12 pb15"><h5>Inschrijven nieuwsbrief</h5>
+<p>Op de hoogte blijven van nieuws over CSU? Schrijf&nbsp;u in voor de nieuwsbrief.</p></div>
+</div>
+							</div>
+															<form action="#" method="post" class="nbFooterfrm">
+									<input type="hidden" value="1" name="spotler"/>
+									<input type="hidden" value="Nieuwsbrief" name="formname"/>
+
+									
+									<div class="row">
+										<div class="col-xs-12"> 
+											<input type="text" class="form-control req" placeholder="Naam" name="nl_name" id="nl_name" />
+										</div> 
+										<div class="col-xs-12"> 
+											<input type="email" class="form-control req" placeholder="E-mail adres" name="email" id="nl_email"/>
+										</div>
+										<div class="col-xs-12"> 
+											<button name="nl_submit" type="submit" class="btn" id="nl_submit">Aanmelden</button>
+										</div> 
+									</div>
+								</form>
+														</div>
+											<div class="visible-sm clearfix pb15"></div> 
+					<div class="col-md-3 col-sm-6">
+						<div class="row">
+							<div class="cmsBlok1 clearfix">
+<div class="col-md-12 col-xs-12 pb15"><h5>Social media</h5>
+<p><a href="https://www.facebook.com/CSUcleaning" target="_blank">facebook.com</a><br /><a href="https://twitter.com/csucleaning" target="_blank">twitter.com</a><br /><a href="https://www.linkedin.com/company/csu" target="_blank">linkedin.com</a><br /><a href="https://www.youtube.com/channel/UCSagrygbMkjrBpVW-ErB8kQ" target="_blank">youtube.com</a></p></div>
+</div>
+						</div>
+						<p>Uitgeroepen tot Top Employer 2020</p>
+						<img src="https://www.csu.nl/img/content/top_employer.png?v=3" alt="Top Employer" />
+						<p><br/>Nr. 1 facilitair dienstverlener</p>
+						<img src="https://www.csu.nl/img/content/mt500-logo.png" alt="Nr. 1 facilitair dienstverlener"/>
+					</div>
+											<div class="col-md-3 col-sm-6 footercontactlinks">
+							<div class="row">
+								<div class="cmsBlok1 clearfix">
+<div class="col-md-12 col-xs-12 pb15"><h5>Contact</h5>
+<p>CSU BV<br /><a href="https://www.csu.nl/contact/">Uden&nbsp;(hoofdkantoor)</a><br /><a href="https://www.csu.nl/contact/amsterdam/">Amsterdam</a><br /><a href="https://www.csu.nl/contact/apeldoorn/">Apeldoorn</a><br /><a href="https://www.csu.nl/contact/breda/">Breda<br /></a><a href="https://www.csu.nl/contact/den-haag/">Den Haag</a><br /><a href="https://www.csu.nl/contact/den-helder/">Den Helder</a><br /><a href="https://www.csu.nl/contact/eindhoven/">Eindhoven</a><br /><a href="https://www.csu.nl/contact/groningen/">Groningen</a><br /><a href="https://www.csu.nl/contact/maastricht/">Maastricht</a><br /><a href="https://www.csu.nl/contact/middelburg/">Middelburg</a><br /><a href="https://www.csu.nl/contact/rotterdam/">Barendrecht<br /></a><a href="https://www.csu.nl/contact/utrecht/">Utrecht</a></p>
+<p>E-mail: <a href="mailto:info@csu.nl?utm_source=uitgaande%20link&amp;utm_medium=klik&amp;utm_campaign=email-footer">info@csu.nl</a></p></div>
+</div>
+							</div>
+						</div>
+										</div>
+			</div>
+			<div class="wittebalk">
+				<img alt="" src="https://www.csu.nl/img/layout/balk_wit.png">
+				<div class="balkitems">
+					<div class="container text-center">
+						<span class="footerPayoff"></span>
+												<img width="63" class="footrLogo" src="https://www.csu.nl/img/csu.svg" alt="">
+					</div>
+				</div>
+			</div>
+		</footer>
+				<script src="https://www.csu.nl/scripts/jquery-ui.min.js"></script>
+		<script src="https://www.csu.nl/scripts/owl.carousel2.min.js"></script>
+					<link href="//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" rel="stylesheet" type="text/css">
+			<link href="https://www.csu.nl/css/videoslide.css" rel="stylesheet" type="text/css">
+			<script src="//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js"></script>
+			<script src="https://www.csu.nl/scripts/videoslide.js"></script>
+					<script src="https://www.csu.nl/scripts/forms.js"></script>
+		<script src="https://www.csu.nl/scripts/scripts.js"></script>
+		<script src="https://www.csu.nl/scripts/bootstrap.min.js"></script>
+<script src="https://www.csu.nl/scripts/jquery.magnific-popup.min.js"></script>
+<script src="https://www.csu.nl/includes/common/products/js/products.js"></script>
+<script src="https://www.csu.nl/includes/common/autocomplete/js/autocomplete.js"></script>
+<script src="https://www.csu.nl/includes/common/consent/js/consent.js"></script>
+<script src="https://www.csu.nl/includes/common/cookiecheck/js/cookiecheck.js"></script>
+<script src="https://www.csu.nl/scripts/scherp_op_edgePreload.js"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 984848730;
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]> */
+		</script>
+		<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+		</script>
+		<noscript>
+		<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/984848730/?value=0&amp;guid=ON&amp;script=0"/>
+		</div>
+		</noscript>
+				<!-- Adform Tracking Code -->
+		<script type="text/javascript">
+			var _adftrack = {
+				pm: 512636        
+			};
+			(function () { var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'https://track.adform.net/serving/scripts/trackpoint/async/'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x); })();
+		</script>
+		<noscript>
+			<p style="margin:0;padding:0;border:0;">
+				<img src="https://track.adform.net/Serving/TrackPoint/?pm=512636" width="1" height="1" alt="" />
+			</p>
+		</noscript>
+
+			
+					<script>
+				window.dataLayer=window.dataLayer||[];
+				window.dataLayer.push({
+				  'ip_adres':'extern'
+				});
+			</script>
+			
+	</body>
+	</html>
+	
