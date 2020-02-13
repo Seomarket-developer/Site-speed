@@ -29,8 +29,8 @@ var siteurl = "https://www.csu.nl/";
 <link href="https://www.csu.nl/css/owl.carousel2.css"  rel="stylesheet" />
 <link href="https://www.csu.nl/css/magnific-popup.css"  rel="stylesheet" />
 <link href="https://www.csu.nl/css/videoslide.css"  rel="stylesheet" />
-<link href="https://www.csu.nl/includes/common/consent/css/consent.css"  rel="stylesheet" />
-<link href="https://www.csu.nl/css/2019.css" rel="stylesheet" type="text/css"><link href="https://www.csu.nl/css/nav.css" rel="stylesheet" type="text/css"><script src="https://www.csu.nl/scripts/nav.js"></script>		<link href="//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" rel="stylesheet" type="text/css">
+<link href="https://www.csu.nl/includes/common/consent/css/consent.css"  rel="stylesheet" / defer>
+<link href="https://www.csu.nl/css/2019.css" rel="stylesheet" type="text/css"><link href="https://www.csu.nl/css/nav.css" rel="stylesheet" type="text/css"><script src="https://www.csu.nl/scripts/nav.js"></script>		<link href="//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" rel="stylesheet" type="text/css" defer>
 		<script>
 			(function(w,d,s,l,i){
 				w[l]=w[l]||[];w[l].push({'gtm.start':
